@@ -99,7 +99,7 @@
 
 ---
 
-## ✅ Summary Table
+##  Summary Table
 
 | # | Problem                   | Parent Pattern   | Concept/Use                     |
 | - | ------------------------- | ---------------- | ------------------------------- |
