@@ -352,10 +352,5 @@ function morrisInorder(root):
 5. **Understand the base case and recursive case.**
 6. **Practice edge cases** (empty tree, single node, skewed tree).
 
----
-
-**Summary:**  
-For each advanced tree concept, understand the pattern, write pseudocode, and dry run with small trees.  
-This will help you confidently approach and solve any tree problem in interviews.
 
 ---
