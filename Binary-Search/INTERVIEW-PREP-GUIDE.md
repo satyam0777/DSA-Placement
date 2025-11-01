@@ -475,7 +475,7 @@ Show the interviewer:
 
 if(arr.empty()) return -1;
 if(arr.size() == 1) return arr[0] == target ? 0 : -1;
-```
+```    
 
 ### **4. Dry Run = Bonus Points**
 ```
@@ -509,24 +509,6 @@ But since it's sorted, I can optimize using binary search O(log n)."
 | Rotated Array | "Rotated sorted array" | Find sorted half, check range |
 | Peak Element | "Greater than neighbors" | Compare mid with mid+1 |
 
----
-
-## 🎯 FINAL PREP CHECKLIST
-
-**Before Interview:**
-- [ ] Practice these 10 problems 3 times each
-- [ ] Be able to write classic BS in 1 minute
-- [ ] Memorize first/last occurrence templates
-- [ ] Practice explaining out loud
-- [ ] Review common mistakes
-
-**During Interview:**
-- [ ] Clarify problem (input/output/edge cases)
-- [ ] Identify BS pattern
-- [ ] Explain approach before coding
-- [ ] Dry run with example
-- [ ] Mention time/space complexity
-- [ ] Handle edge cases
 
 ---
 
@@ -564,4 +546,4 @@ But since it's sorted, I can optimize using binary search O(log n)."
 
 ---
 
-**Good luck with your placement! 🚀**
+**Good luck with your placement!**
