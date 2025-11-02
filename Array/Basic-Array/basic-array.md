@@ -480,4 +480,3 @@ void print2D(int arr[][3], int rows) {
    What happens when you pass an array to a function? Does it decay to a pointer? What are the implications?
 
 ---
-
