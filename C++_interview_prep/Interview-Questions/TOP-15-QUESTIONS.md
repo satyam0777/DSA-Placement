@@ -1,19 +1,8 @@
-# 🎯 TOP 15 C++ & OOPs INTERVIEW QUESTIONS
-## Service-Based Companies (TCS | Infosys | Wipro)
+# TOP 15 C++ & OOPs INTERVIEW QUESTIONS
 
 ---
 
-## 📊 QUESTION FREQUENCY RANKING
-
-```
-⭐⭐⭐ MUST KNOW (Asked 90%+)
-⭐⭐   HIGH (Asked 70-90%)
-⭐     GOOD (Asked 50-70%)
-```
-
----
-
-## ❓ QUESTION 1: What is OOP? Explain its advantages ⭐⭐⭐
+##  QUESTION 1: What is OOP? Explain its advantages ⭐⭐⭐
 
 ### **Frequency:**
 - **TCS:** 100% ⭐⭐⭐
